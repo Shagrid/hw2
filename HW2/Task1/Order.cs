@@ -1,6 +1,6 @@
 ﻿namespace Task1
 {
-    public class Order
+    public sealed class Order
     {
         int orderId;
         string Name;

@@ -38,10 +38,16 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Interfaces\IAddOrder.cs" />
+        <Compile Include="Interfaces\IDeleteOrder.cs" />
+        <Compile Include="Interfaces\IGetOrder.cs" />
+        <Compile Include="Interfaces\IUpdateOrder.cs" />
         <Compile Include="Order.cs" />
         <Compile Include="OrderRepository.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="RepositoryConnections\API.cs" />
+        <Compile Include="RepositoryConnections\MySQL.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

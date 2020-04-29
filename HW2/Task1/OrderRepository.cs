@@ -1,22 +1,24 @@
-﻿namespace Task1
+﻿using Task1.Interfaces;
+
+namespace Task1
 {
-    public class OrderRepository
+    public sealed class OrderRepository
     {
-        public Order Load(int orderId)
+        public Order Load(IGetOrder connect, int orderId)
         {
-            return new Order();
+            return connect.GetOrder(orderId);
         }
 
-        public void Save(Order order)
+        public void Save(IAddOrder connect, Order order)
         {
-            //
+            connect.Add(order);
         }
-        public void Update(Order order) { 
-            //
+        public void Update(IUpdateOrder connect, Order order) { 
+            connect.Update(order);
         }
-        public void Delete(Order order)
+        public void Delete(IDeleteOrder conncet, Order order)
         { 
-            //
+            conncet.Delete(order);
         }
     }
 }

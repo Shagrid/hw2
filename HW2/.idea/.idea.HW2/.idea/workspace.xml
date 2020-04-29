@@ -11,8 +11,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Task2/Clothes.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Task2/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Task1/RepositoryConnections/API.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Task1/RepositoryConnections/MySQL.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Task1/Interfaces/IUpdateOrder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Task1/Interfaces/IAddOrder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Task1/Interfaces/IDeleteOrder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Task1/Interfaces/IGetOrder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Task2/Clothes.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Task1/OrderRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Task2/IItem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Task1/Order.cs" root0="FORCE_HIGHLIGHTING" />
@@ -24,11 +30,17 @@
         <option value="$PROJECT_DIR$/HW2/Program.cs" />
         <option value="$PROJECT_DIR$/HW2/Order.cs" />
         <option value="$PROJECT_DIR$/HW2/OrderRepository.cs" />
-        <option value="$PROJECT_DIR$/Task2/Program.cs" />
-        <option value="$PROJECT_DIR$/Task1/Order.cs" />
-        <option value="$PROJECT_DIR$/Task1/OrderRepository.cs" />
         <option value="$PROJECT_DIR$/Task2/IItem.cs" />
         <option value="$PROJECT_DIR$/Task2/Clothes.cs" />
+        <option value="$PROJECT_DIR$/Task1/Interfaces/IAddOrder.cs" />
+        <option value="$PROJECT_DIR$/Task1/Interfaces/IDeleteOrder.cs" />
+        <option value="$PROJECT_DIR$/Task1/Interfaces/IGetOrder.cs" />
+        <option value="$PROJECT_DIR$/Task1/Interfaces/IUpdateOrder.cs" />
+        <option value="$PROJECT_DIR$/Task1/Order.cs" />
+        <option value="$PROJECT_DIR$/Task1/RepositoryConnections/API.cs" />
+        <option value="$PROJECT_DIR$/Task1/RepositoryConnections/MySQL.cs" />
+        <option value="$PROJECT_DIR$/Task2/Program.cs" />
+        <option value="$PROJECT_DIR$/Task1/OrderRepository.cs" />
       </list>
     </option>
   </component>
@@ -101,5 +113,13 @@
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="392" y="167" key="Rider.ProjectTemplateDialog.Size/0.0.1600.870@0.0.1600.870" timestamp="1588150498181" />
+    <state x="634" y="135" key="RiderGenerateDialog" timestamp="1588151917263">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="634" y="135" key="RiderGenerateDialog/0.0.1600.870@0.0.1600.870" timestamp="1588151917263" />
+    <state x="456" y="200" key="run.anything.popup" timestamp="1588152034206">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="456" y="200" key="run.anything.popup/0.0.1600.870@0.0.1600.870" timestamp="1588152034206" />
   </component>
 </project>
