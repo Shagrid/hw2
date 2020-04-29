@@ -1,6 +1,7 @@
-﻿namespace Task2
+﻿using System.Drawing;
+namespace Task2
 {
-    public class Clothes : IItem
+    public class Clothes : IItem, IDiscount, IPromo
     {
         public void SetColor(Color color)    {    }
         public void SetDiscount(double discount)    {    }

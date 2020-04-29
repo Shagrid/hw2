@@ -12,6 +12,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Task2/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Task2/Interfaces/IDiscount.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Task2/Interfaces/IPromo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Task1/RepositoryConnections/API.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Task1/RepositoryConnections/MySQL.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Task1/Interfaces/IUpdateOrder.cs" root0="FORCE_HIGHLIGHTING" />
@@ -20,7 +22,7 @@
     <setting file="file://$PROJECT_DIR$/Task1/Interfaces/IGetOrder.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Task2/Clothes.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Task1/OrderRepository.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Task2/IItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Task2/Interfaces/IItem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Task1/Order.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -31,7 +33,6 @@
         <option value="$PROJECT_DIR$/HW2/Order.cs" />
         <option value="$PROJECT_DIR$/HW2/OrderRepository.cs" />
         <option value="$PROJECT_DIR$/Task2/IItem.cs" />
-        <option value="$PROJECT_DIR$/Task2/Clothes.cs" />
         <option value="$PROJECT_DIR$/Task1/Interfaces/IAddOrder.cs" />
         <option value="$PROJECT_DIR$/Task1/Interfaces/IDeleteOrder.cs" />
         <option value="$PROJECT_DIR$/Task1/Interfaces/IGetOrder.cs" />
@@ -41,6 +42,10 @@
         <option value="$PROJECT_DIR$/Task1/RepositoryConnections/MySQL.cs" />
         <option value="$PROJECT_DIR$/Task2/Program.cs" />
         <option value="$PROJECT_DIR$/Task1/OrderRepository.cs" />
+        <option value="$PROJECT_DIR$/Task2/Interfaces/IDiscount.cs" />
+        <option value="$PROJECT_DIR$/Task2/Clothes.cs" />
+        <option value="$PROJECT_DIR$/Task2/Interfaces/IPromo.cs" />
+        <option value="$PROJECT_DIR$/Task2/Interfaces/IItem.cs" />
       </list>
     </option>
   </component>

@@ -39,7 +39,9 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="Clothes.cs" />
-        <Compile Include="IItem.cs" />
+        <Compile Include="Interfaces\IDiscount.cs" />
+        <Compile Include="Interfaces\IItem.cs" />
+        <Compile Include="Interfaces\IPromo.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>

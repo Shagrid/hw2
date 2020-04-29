@@ -30,7 +30,11 @@
       <e p="Task2" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Clothes.cs" t="Include" />
-        <e p="IItem.cs" t="Include" />
+        <e p="Interfaces" t="Include">
+          <e p="IDiscount.cs" t="Include" />
+          <e p="IItem.cs" t="Include" />
+          <e p="IPromo.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
