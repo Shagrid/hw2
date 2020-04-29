@@ -8,6 +8,12 @@
       <e p="packages" t="ExcludeRecursive" />
       <e p="Task1" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Interfaces" t="Include">
+          <e p="IAddOrder.cs" t="Include" />
+          <e p="IDeleteOrder.cs" t="Include" />
+          <e p="IGetOrder.cs" t="Include" />
+          <e p="IUpdateOrder.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="order.cs" t="Include" />
         <e p="OrderRepository.cs" t="Include" />
@@ -15,12 +21,20 @@
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
+        <e p="RepositoryConnections" t="Include">
+          <e p="API.cs" t="Include" />
+          <e p="MySQL.cs" t="Include" />
+        </e>
         <e p="Task1.csproj" t="IncludeRecursive" />
       </e>
       <e p="Task2" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Clothes.cs" t="Include" />
-        <e p="IItem.cs" t="Include" />
+        <e p="Interfaces" t="Include">
+          <e p="IDiscount.cs" t="Include" />
+          <e p="IItem.cs" t="Include" />
+          <e p="IPromo.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
